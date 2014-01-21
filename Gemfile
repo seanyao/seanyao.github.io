@@ -3,4 +3,5 @@ source "https://rubygems.org"
 
 # gem "rails"
 gem "jekyll", "~> 1.4.3"
-gem "rdiscount" 
+gem 'rdiscount'
+gem 'redcarpet'

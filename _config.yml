@@ -1,16 +1,16 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
-# permalink: /:categories/:year/:month/:day/:title 
+#
+permalink: /:categories/:year/:month/:day/:title 
 
 markdown: rdiscount
-permalin: pretty
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "vendor"]
 pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Sean Yao is diving.
+title : Sean Yao
 tagline: PRODUCT DESIGN, LEAN, KANBAN, AGILE, SOFTWARE DEVELOPMENT
 author :
   name : Sean Yao

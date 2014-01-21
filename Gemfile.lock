@@ -51,3 +51,4 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 1.4.3)
   rdiscount
+  redcarpet
